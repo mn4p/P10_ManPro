@@ -7,4 +7,4 @@ Universitas Katolik Soegijapranata.
 
 ## Tugas
 Membuat coding sederhana di APK apaun dan dimasukan kedalam GitHub.
-Kumpulkan situs website dalam Word dan Upload ke dalam Cyber.
+Kemudian, kumpulkan situs website dalam Word dan Upload ke dalam Cyber.
