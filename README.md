@@ -9,5 +9,5 @@ Universitas Katolik Soegijapranata.
 Membuat coding sederhana di APK apaun dan dimasukan kedalam GitHub.
 Kemudian, kumpulkan situs website dalam Word dan Upload ke dalam Cyber.
 
-## See HTML Page Deployment
+## Lihat HTML Deployment
 https://mn4p.github.io/P10_ManPro/
